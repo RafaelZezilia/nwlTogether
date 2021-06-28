@@ -1,0 +1,27 @@
+{
+  "cSpell.ignoreWords": [
+    "await",
+    "column",
+    "compliments",
+    "create",
+    "delete",
+    "fk",
+    "foreign",
+    "id",
+    "key",
+    "name",
+    "names",
+    "new",
+    "null",
+    "on",
+    "query",
+    "referenced",
+    "runner",
+    "sender",
+    "set",
+    "table",
+    "update",
+    "user",
+    "users"
+  ]
+}
